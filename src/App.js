@@ -39,7 +39,7 @@ function App() {
               <button className="learnMore">  Register for Demo  </button>
             </div>
           </div>
-          <div className="col-lg-4 shadow-lg">
+          <div className="col-lg-4 overflow-hidden shadow-lg">
             <img className="rounded-lg-3" src={main_img} alt="" width={620} />
           </div>
         </div>
