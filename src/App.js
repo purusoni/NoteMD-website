@@ -27,11 +27,10 @@ function App() {
               style={{ color: `${textColor}` }}
               className="display-4 lh-1 fw-bold "
             >
-              OralCam: Revolutionizing Oral Health Self-Examination
+              NoteMD: Revolutionizing Medical Note Taking
             </h1>
             <p style={{ color: `${textColor}` }} className="lead">
-              Empowering you to monitor your oral health effortlessly with just
-              a smartphone.
+              Generate medical notes instantly, using AI
             </p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
               <button className="learnMore">Download</button>
