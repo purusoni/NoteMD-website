@@ -30,10 +30,10 @@ function App() {
               NoteMD: Revolutionizing Medical Note Taking
             </h1>
             <p style={{ color: `${textColor}` }} className="lead">
-              Generate medical notes instantly, using AI
+              Generate medical notes instantly, using AI.
             </p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-              <button className="learnMore">Download</button>
+              <button className="learnMore">Register for Demo</button>
             </div>
           </div>
           <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
@@ -57,18 +57,15 @@ function App() {
           }}
           className="col-md-8 p-lg-5 mx-auto my-5"
         >
-          <h1 className="display-3 fw-bold">Welcome to OralCam!</h1>
+          <h1 className="display-3 fw-bold">Welcome to NoteMD!</h1>
           <h3
             style={{ color: `${textColor}` }}
             className="fw-normal  mb-4 my-4"
           >
-            Many oral diseases go unexamined and untreated due to a lack of
-            medical resources and oral health awareness, affecting a large
-            global population. Mobile apps on low-cost, sensor-equipped
-            smartphones offer a promising solution. OralCam is the first app for
-            self-examining five common oral conditions using smartphone photos.
-            Users can annotate additional information and receive results with
-            visual explanations.
+            Writing medical notes is regarded as a documentation chore, rather than a 
+            medical decision-making enhancer, and is the major cause of physician burnout in USA. 
+
+            NoteMD revolutionizes this: just three clicks to generate a note.
           </h3>
         </div>
         <div className="product-device shadow-sm d-none d-md-block" />
