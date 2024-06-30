@@ -6,6 +6,9 @@ import main_img from "./Images/image.png";
 import stepone from "./Images/step1.png";
 import steptwo from "./Images/step2.png";
 import stepthree from "./Images/step3.png";
+import ft1 from "./Images/ft1.png";
+import ft2 from "./Images/ft2.webp";
+import ft3 from "./Images/ft3.jpg";
 import technology from "./Images/technology.png";
 
 function App() {
@@ -202,7 +205,13 @@ function App() {
         <div className="steps">
           <article className="card">
             <div className="card-img">
-              <div className="card-imgs pv delete"></div>
+              <div className="card-imgs pv delete">
+                <img
+                  style={{ height: "100%", marginLeft: "10%" }}
+                  src={stepone}
+                  // alt="Taking photo of oral cavity"
+                />
+              </div>
             </div>
             <div className="project-info">
               <div className="flex">
@@ -216,7 +225,13 @@ function App() {
 
           <article className="card">
             <div className="card-img">
-              <div className="card-imgs pv delete"></div>
+              <div className="card-imgs pv delete">
+                <img
+                  style={{ height: "100%", marginLeft: "10%" }}
+                  src={stepone}
+                  // alt="Taking photo of oral cavity"
+                />
+              </div>
             </div>
             <div className="project-info">
               <div className="flex">
@@ -230,7 +245,13 @@ function App() {
 
           <article className="card">
             <div className="card-img">
-              <div className="card-imgs pv delete"></div>
+              <div className="card-imgs pv delete">
+                <img
+                  style={{ height: "100%", marginLeft: "10%" }}
+                  src={stepone}
+                  // alt="Taking photo of oral cavity"
+                />
+              </div>
             </div>
             <div className="project-info">
               <div className="flex">
