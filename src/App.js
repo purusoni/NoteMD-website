@@ -208,7 +208,7 @@ function App() {
               <div className="card-imgs pv delete">
                 <img
                   style={{ height: "100%", marginLeft: "10%" }}
-                  src={stepone}
+                  src={ft1}
                   // alt="Taking photo of oral cavity"
                 />
               </div>
@@ -228,7 +228,7 @@ function App() {
               <div className="card-imgs pv delete">
                 <img
                   style={{ height: "100%", marginLeft: "10%" }}
-                  src={stepone}
+                  src={ft2}
                   // alt="Taking photo of oral cavity"
                 />
               </div>
@@ -248,7 +248,7 @@ function App() {
               <div className="card-imgs pv delete">
                 <img
                   style={{ height: "100%", marginLeft: "10%" }}
-                  src={stepone}
+                  src={ft3}
                   // alt="Taking photo of oral cavity"
                 />
               </div>
