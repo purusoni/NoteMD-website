@@ -37,7 +37,7 @@ function App() {
             </div>
           </div>
           <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-            <img className="rounded-lg-3" src={heroImg} alt="" width={620} />
+            <img className="rounded-lg-3" src={NoteMD} alt="" width={620} />
           </div>
         </div>
       </div>
@@ -206,7 +206,7 @@ function App() {
             </div>
             <div className="project-info">
               <div className="flex">
-                <div className="project-title">Less than 30 seconds</div>
+                <div className="project-title">&lt;30 seconds</div>
               </div>
               <span className="lighter">
                 Blazing fast.
@@ -220,7 +220,7 @@ function App() {
             </div>
             <div className="project-info">
               <div className="flex">
-                <div className="project-title">HIPPA Compliance**</div>
+                <div className="project-title">HIPPA Compliant</div>
               </div>
               <span className="lighter">
                 NoteMD (will be) HIPPA compliant**, so you can rest assured that your data is safe.
