@@ -2,10 +2,10 @@ import "./App.css";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import useDarkMode from "./Components/DarkMode";
-import main_img from "./Images/image.jpg";
-import stepone from "./Images/stepone.png";
-import steptwo from "./Images/steptwo.png";
-import stepthree from "./Images/stepthree.png";
+import main_img from "./Images/image.png";
+import stepone from "./Images/step1.png";
+import steptwo from "./Images/step2.png";
+import stepthree from "./Images/step3.png";
 import technology from "./Images/technology.png";
 
 function App() {
