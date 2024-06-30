@@ -37,7 +37,7 @@ function App() {
             </div>
           </div>
           <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-            <img className="rounded-lg-3" src={NoteMD} alt="" width={620} />
+            <img className="rounded-lg-3" src={image} alt="" width={620} />
           </div>
         </div>
       </div>
