@@ -8,7 +8,7 @@ function Navbar(props) {
       >
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            OralCam
+            NoteMD
           </a>
           <button
             className="navbar-toggler"
@@ -46,7 +46,7 @@ function Navbar(props) {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Download
+                  Register for Demo
                 </a>
               </li>
             </ul>

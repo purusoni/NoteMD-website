@@ -20,7 +20,7 @@ function Footer(props) {
               props.mode === `light` ? `dark` : `light`
             }`}
           >
-            © 2024, OralCam
+            © 2024, NoteMD
           </span>
         </div>
       </footer>
