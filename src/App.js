@@ -2,7 +2,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import useDarkMode from "./Components/DarkMode";
-import heroImg from "./Images/heroImg.jpg";
+import main_img from "./Images/image.jpg";
 import stepone from "./Images/stepone.png";
 import steptwo from "./Images/steptwo.png";
 import stepthree from "./Images/stepthree.png";
