@@ -227,7 +227,7 @@ function App() {
             <div className="card-img">
               <div className="card-imgs pv delete">
                 <img
-                  style={{ height: "100%", marginLeft: "10%" }}
+                  style={{ height: "100%", marginLeft: "5%" }}
                   src={ft2}
                   // alt="Taking photo of oral cavity"
                 />
