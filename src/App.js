@@ -33,7 +33,7 @@ function App() {
               Generate medical notes instantly, using AI.
             </p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-              <button className="learnMore">Register for Demo</button>
+              <button className="learnMore">  Register for Demo  </button>
             </div>
           </div>
           <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
@@ -137,7 +137,7 @@ function App() {
                 <div className="project-title">Step 3</div>
               </div>
               <span className="lighter">
-                  In less than 30 seconds, get a quality medical note with quality medical notes with little to no effort on your side. 
+                  In less than 30 seconds, get a quality medical notes with little to no effort on your side. 
               </span>
             </div>
           </article>
@@ -158,10 +158,10 @@ function App() {
               loading="lazy"
               style={{ border: "1px solid black", borderRadius: "50px" }}
             />
-            <p style={{ marginTop: "10px", marginLeft: "20px" }}>
+            {/* <p style={{ marginTop: "10px", marginLeft: "20px" }}>
               <b>Fig.</b> Overview of the DCNN model for oral condition
               detection.
-            </p>
+            </p> */}
           </div>
           <div className="col-lg-6">
             <h1
@@ -171,12 +171,16 @@ function App() {
               The Technology
             </h1>
             <p style={{ color: `${textColor}` }} className="lead">
-              OralCam utilizes advanced deep learning algorithms to analyze
-              images of the oral cavity. Our model is trained on a vast dataset
-              of oral images, enabling it to accurately detect various
-              conditions like periodontal disease, caries, soft deposits, dental
-              calculus, and dental discoloration. The app provides immediate
-              feedback, empowering users to take control of their oral health.
+              NoteMD utilizes a custom Fine-tuned Large Language Model generate
+              medical SOAP notes. 
+              
+              Our model is trained on a rich dataset
+              of SOAP notes + audio, enabling it to accurately pick up necessary information and skip the rest.
+
+              Our AI model outperforms* OpenAI's GPT-4, while being more than 100 times smaller in size.
+              
+              The app provides immediate
+              feedback and error messages, empowering physicians to take back their time from the grip of documentation mandates.
             </p>
           </div>
         </div>
